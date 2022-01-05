@@ -6,6 +6,11 @@
 
 Import prob_distributions and it contains following classes:
 
+### Installation
+pip install on windows using: pip install probabi-distributions
+
+### About
+
 **1. Gaussian class**
 
    Gaussian distribution class for calculating and visualizing a Gaussian distribution.
