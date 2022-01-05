@@ -1,7 +1,6 @@
 ## Description of Project
 
-<p>This project was made under the guidance of an online course.
-The prob_distributions package is used to calculate and plot Gaussian/ Normal and Binomial distributions.</p>
+<p>The prob_distributions package is used to calculate and plot Gaussian/ Normal and Binomial distributions.</p>
 
 ### Instructions
 
